@@ -10,8 +10,6 @@ namespace GrokkingAlgorithms.ConsoleHarness
             var toSearch = new[] { "a", "b", "c", "d", "e", "f" };
             var foundAt = new BinarySearch<string>().IndexOf(toSearch, "f");
             Console.WriteLine($"Found at {foundAt}.");
-
-            Console.WriteLine("Hello World!");
         }
     }
 }
