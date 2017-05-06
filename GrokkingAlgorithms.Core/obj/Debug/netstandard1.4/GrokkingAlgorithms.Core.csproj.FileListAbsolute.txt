@@ -1,0 +1,6 @@
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/bin/Debug/netstandard1.4/GrokkingAlgorithms.Core.deps.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/bin/Debug/netstandard1.4/GrokkingAlgorithms.Core.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/bin/Debug/netstandard1.4/GrokkingAlgorithms.Core.pdb
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/obj/Debug/netstandard1.4/GrokkingAlgorithms.Core.AssemblyInfo.cs
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/obj/Debug/netstandard1.4/GrokkingAlgorithms.Core.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core/obj/Debug/netstandard1.4/GrokkingAlgorithms.Core.pdb

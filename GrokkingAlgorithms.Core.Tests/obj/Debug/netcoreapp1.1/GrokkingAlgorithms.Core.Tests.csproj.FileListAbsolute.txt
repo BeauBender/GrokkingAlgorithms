@@ -1,0 +1,13 @@
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.deps.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.runtimeconfig.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.runtimeconfig.dev.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.pdb
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/bin/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.pdb
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/obj/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.AssemblyInfo.cs
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/obj/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.Core.Tests/obj/Debug/netcoreapp1.1/GrokkingAlgorithms.Core.Tests.pdb
