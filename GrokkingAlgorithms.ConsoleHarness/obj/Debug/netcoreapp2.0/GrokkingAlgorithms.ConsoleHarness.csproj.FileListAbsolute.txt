@@ -1,0 +1,12 @@
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.deps.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.runtimeconfig.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.runtimeconfig.dev.json
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.pdb
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.Core.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/bin/Debug/netcoreapp2.0/GrokkingAlgorithms.Core.pdb
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/obj/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.csproj.CoreCompileInputs.cache
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/obj/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.AssemblyInfoInputs.cache
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/obj/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.AssemblyInfo.cs
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/obj/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.dll
+/Users/beaubender/Code/github/GrokkingAlgorithms/GrokkingAlgorithms.ConsoleHarness/obj/Debug/netcoreapp2.0/GrokkingAlgorithms.ConsoleHarness.pdb

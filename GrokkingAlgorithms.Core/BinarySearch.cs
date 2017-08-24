@@ -1,7 +1,7 @@
 ﻿namespace GrokkingAlgorithms.Core
 {
     using System;
-    
+
     public class BinarySearch<T> where T : IComparable
     {
         public int IndexOf(T[] toSearch, T toFind)
@@ -31,7 +31,7 @@
                     low = mid + 1;
                 }
             }
-
+                
             return foundAt;
         }
     }
