@@ -2,9 +2,9 @@ namespace GrokkingAlgorithms.Core
 {
     using System;
     using System.Collections.Generic;
-    public class SelectionSort<T> where T : IComparable
+    public class SelectionSort
     {
-        public T[] Sort(T[] input)
+        public T[] Sort<T>(T[] input) where T : IComparable
         {
             T[] toReturn = null;
 
@@ -31,7 +31,7 @@ namespace GrokkingAlgorithms.Core
             return toReturn;
         }
 
-        private int FindSmallestIndex(List<T> input)
+        private int FindSmallestIndex<T>(List<T> input) where T : IComparable
         {
             var toReturn = 0;
             T smallestValue = input[0];
@@ -48,7 +48,7 @@ namespace GrokkingAlgorithms.Core
             return toReturn;
         }
 
-        private T[] BuildCleanedArray(T[] input, System.Collections.Generic.HashSet<int> indicesToSkip)
+        private T[] BuildCleanedArray<T>(T[] input, System.Collections.Generic.HashSet<int> indicesToSkip)
         {
             var toReturn = new List<T>();
 

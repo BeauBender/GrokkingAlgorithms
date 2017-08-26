@@ -36,18 +36,13 @@ namespace GrokkingAlgorithms.Core.Recursion
 
             foreach (var item in contents)
             {
-                if (item.IsKey())
+                result = item.IsKey() ?
+                    item :
+                    item.Search();
+               
+                if (result != null && result.IsKey())
                 {
-                    result = item;
                     break;
-                }
-                else
-                {
-                    result = item.Search();
-                    if (result != null && result.IsKey())
-                    {
-                        break;
-                    }
                 }
             }
 

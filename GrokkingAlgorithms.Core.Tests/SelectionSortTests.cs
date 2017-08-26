@@ -6,12 +6,12 @@ namespace GrokkingAlgorithms.Core.Tests
     public class SelectionSortTests
     {
         private readonly int[] toSort = new[] { 5, 3, 1, 1, 2, 4, 11, 21 };
-        private readonly SelectionSort<int> sorter = new SelectionSort<int>();
+        private readonly SelectionSort sorter = new SelectionSort();
 
         [Fact]
         public void ReturnsNullWhenGivenANullInput()
         {
-            Assert.Null(sorter.Sort(null));
+            Assert.Null(sorter.Sort<int>(null));
         }
 
         [Fact]
