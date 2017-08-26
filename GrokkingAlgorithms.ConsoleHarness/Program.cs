@@ -20,7 +20,8 @@ namespace GrokkingAlgorithms.ConsoleHarness
         private static void ExecuteSelectionSort()
         {
             var toSort = new[] { int.MaxValue, 10, 3, 53, 6, 99, 100, int.MinValue };
-            var sorted = new SelectionSort<int>().Sort(toSort);
+            var sorted = new SelectionSort().Sort(toSort);
+            Console.WriteLine("Sorted.");
         }
     }
 }
